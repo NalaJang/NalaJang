@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **NalaJang/NalaJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 👋
+* Email : nala0897@gmail.com
+* Blog : https://nalainthesky.tistory.com/
+
+<br></br>
+
+<a href="https://github.com/NalaJang"><img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=NalaJang&show_icons=true&include_all_commits=true&theme=buefy" alt="Nala's github stats" /></a>
+
+<a href="https://github.com/NalaJang"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalaJang&layout=compact&theme=buefy" /></a>
